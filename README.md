@@ -1,5 +1,6 @@
+---
 # PhonePe Pulse Data Visualization & Exploration
-
+---
 ## Overview
 Interactive Power BI dashboard analyzing PhonePe Pulse data (2018–2023) to explore digital payment trends across India. The project includes geographic insights, transaction patterns, user growth, and category-level analytics using fully interactive slicers and KPIs.
 
